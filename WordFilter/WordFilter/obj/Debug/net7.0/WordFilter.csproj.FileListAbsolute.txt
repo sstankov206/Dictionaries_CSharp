@@ -1,0 +1,15 @@
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/bin/Debug/net7.0/WordFilter
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/bin/Debug/net7.0/WordFilter.deps.json
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/bin/Debug/net7.0/WordFilter.runtimeconfig.json
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/bin/Debug/net7.0/WordFilter.dll
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/bin/Debug/net7.0/WordFilter.pdb
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/obj/Debug/net7.0/WordFilter.csproj.AssemblyReference.cache
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/obj/Debug/net7.0/WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/obj/Debug/net7.0/WordFilter.AssemblyInfoInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/obj/Debug/net7.0/WordFilter.AssemblyInfo.cs
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/obj/Debug/net7.0/WordFilter.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/obj/Debug/net7.0/WordFilter.dll
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/obj/Debug/net7.0/refint/WordFilter.dll
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/obj/Debug/net7.0/WordFilter.pdb
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/obj/Debug/net7.0/WordFilter.genruntimeconfig.cache
+/Users/stan/Projects/Dictionaries_CSharp/WordFilter/WordFilter/obj/Debug/net7.0/ref/WordFilter.dll
