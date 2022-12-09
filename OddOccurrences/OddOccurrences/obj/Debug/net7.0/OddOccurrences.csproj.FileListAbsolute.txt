@@ -1,0 +1,15 @@
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/bin/Debug/net7.0/OddOccurrences
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/bin/Debug/net7.0/OddOccurrences.deps.json
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/bin/Debug/net7.0/OddOccurrences.runtimeconfig.json
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/bin/Debug/net7.0/OddOccurrences.dll
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/bin/Debug/net7.0/OddOccurrences.pdb
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/obj/Debug/net7.0/OddOccurrences.csproj.AssemblyReference.cache
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/obj/Debug/net7.0/OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/obj/Debug/net7.0/OddOccurrences.AssemblyInfoInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/obj/Debug/net7.0/OddOccurrences.AssemblyInfo.cs
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/obj/Debug/net7.0/OddOccurrences.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/obj/Debug/net7.0/OddOccurrences.dll
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/obj/Debug/net7.0/refint/OddOccurrences.dll
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/obj/Debug/net7.0/OddOccurrences.pdb
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/obj/Debug/net7.0/OddOccurrences.genruntimeconfig.cache
+/Users/stan/Projects/Dictionaries_CSharp/OddOccurrences/OddOccurrences/obj/Debug/net7.0/ref/OddOccurrences.dll

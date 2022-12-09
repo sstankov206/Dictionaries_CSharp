@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7CC3E91A-99F4-40D8-9F3F-59D16B2FA5CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.OddOccurrences PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OddOccurrences/Program.cs">
+    <Files>
+      <File FileName="OddOccurrences/Program.cs" Line="56" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OddOccurrences" expanded="True">
+            <Node name="OddOccurrences" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
