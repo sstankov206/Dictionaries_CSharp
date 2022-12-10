@@ -1,0 +1,15 @@
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/bin/Debug/net7.0/Largest3NumbersLINQ
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/bin/Debug/net7.0/Largest3NumbersLINQ.deps.json
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/bin/Debug/net7.0/Largest3NumbersLINQ.runtimeconfig.json
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/bin/Debug/net7.0/Largest3NumbersLINQ.dll
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/bin/Debug/net7.0/Largest3NumbersLINQ.pdb
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/obj/Debug/net7.0/Largest3NumbersLINQ.csproj.AssemblyReference.cache
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/obj/Debug/net7.0/Largest3NumbersLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/obj/Debug/net7.0/Largest3NumbersLINQ.AssemblyInfoInputs.cache
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/obj/Debug/net7.0/Largest3NumbersLINQ.AssemblyInfo.cs
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/obj/Debug/net7.0/Largest3NumbersLINQ.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/obj/Debug/net7.0/Largest3NumbersLINQ.dll
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/obj/Debug/net7.0/refint/Largest3NumbersLINQ.dll
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/obj/Debug/net7.0/Largest3NumbersLINQ.pdb
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/obj/Debug/net7.0/Largest3NumbersLINQ.genruntimeconfig.cache
+/Users/stan/Projects/Largest3NumbersLINQ/Largest3NumbersLINQ/obj/Debug/net7.0/ref/Largest3NumbersLINQ.dll
