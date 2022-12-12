@@ -1,0 +1,15 @@
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/bin/Debug/net7.0/CountCharsInStringV2
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/bin/Debug/net7.0/CountCharsInStringV2.deps.json
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/bin/Debug/net7.0/CountCharsInStringV2.runtimeconfig.json
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/bin/Debug/net7.0/CountCharsInStringV2.dll
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/bin/Debug/net7.0/CountCharsInStringV2.pdb
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/obj/Debug/net7.0/CountCharsInStringV2.csproj.AssemblyReference.cache
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/obj/Debug/net7.0/CountCharsInStringV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/obj/Debug/net7.0/CountCharsInStringV2.AssemblyInfoInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/obj/Debug/net7.0/CountCharsInStringV2.AssemblyInfo.cs
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/obj/Debug/net7.0/CountCharsInStringV2.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/obj/Debug/net7.0/CountCharsInStringV2.dll
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/obj/Debug/net7.0/refint/CountCharsInStringV2.dll
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/obj/Debug/net7.0/CountCharsInStringV2.pdb
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/obj/Debug/net7.0/CountCharsInStringV2.genruntimeconfig.cache
+/Users/stan/Projects/Dictionaries_CSharp/CountCharsInStringV2/CountCharsInStringV2/obj/Debug/net7.0/ref/CountCharsInStringV2.dll
