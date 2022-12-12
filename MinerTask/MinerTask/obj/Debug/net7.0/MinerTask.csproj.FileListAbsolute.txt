@@ -1,0 +1,15 @@
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/bin/Debug/net7.0/MinerTask
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/bin/Debug/net7.0/MinerTask.deps.json
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/bin/Debug/net7.0/MinerTask.runtimeconfig.json
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/bin/Debug/net7.0/MinerTask.dll
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/bin/Debug/net7.0/MinerTask.pdb
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/obj/Debug/net7.0/MinerTask.csproj.AssemblyReference.cache
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/obj/Debug/net7.0/MinerTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/obj/Debug/net7.0/MinerTask.AssemblyInfoInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/obj/Debug/net7.0/MinerTask.AssemblyInfo.cs
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/obj/Debug/net7.0/MinerTask.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/obj/Debug/net7.0/MinerTask.dll
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/obj/Debug/net7.0/refint/MinerTask.dll
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/obj/Debug/net7.0/MinerTask.pdb
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/obj/Debug/net7.0/MinerTask.genruntimeconfig.cache
+/Users/stan/Projects/Dictionaries_CSharp/MinerTask/MinerTask/obj/Debug/net7.0/ref/MinerTask.dll
