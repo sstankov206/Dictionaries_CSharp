@@ -1,0 +1,15 @@
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/bin/Debug/net7.0/RepeatStrings
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/bin/Debug/net7.0/RepeatStrings.deps.json
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/bin/Debug/net7.0/RepeatStrings.runtimeconfig.json
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/bin/Debug/net7.0/RepeatStrings.dll
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/bin/Debug/net7.0/RepeatStrings.pdb
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/obj/Debug/net7.0/RepeatStrings.csproj.AssemblyReference.cache
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/obj/Debug/net7.0/RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/obj/Debug/net7.0/RepeatStrings.AssemblyInfoInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/obj/Debug/net7.0/RepeatStrings.AssemblyInfo.cs
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/obj/Debug/net7.0/RepeatStrings.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/obj/Debug/net7.0/RepeatStrings.dll
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/obj/Debug/net7.0/refint/RepeatStrings.dll
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/obj/Debug/net7.0/RepeatStrings.pdb
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/obj/Debug/net7.0/RepeatStrings.genruntimeconfig.cache
+/Users/stan/Projects/Dictionaries_CSharp/RepeatStrings/RepeatStrings/obj/Debug/net7.0/ref/RepeatStrings.dll
