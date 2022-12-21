@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C95BCA73-5864-4CF6-80FA-A065BC719749}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IndexOf/Program.cs">
+    <Files>
+      <File FileName="IndexOf/Program.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IndexOf" expanded="True">
+            <Node name="IndexOf" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IndexOf PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

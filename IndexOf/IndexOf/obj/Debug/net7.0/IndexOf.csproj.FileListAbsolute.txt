@@ -1,0 +1,15 @@
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/bin/Debug/net7.0/IndexOf
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/bin/Debug/net7.0/IndexOf.deps.json
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/bin/Debug/net7.0/IndexOf.runtimeconfig.json
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/bin/Debug/net7.0/IndexOf.dll
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/bin/Debug/net7.0/IndexOf.pdb
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/obj/Debug/net7.0/IndexOf.csproj.AssemblyReference.cache
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/obj/Debug/net7.0/IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/obj/Debug/net7.0/IndexOf.AssemblyInfoInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/obj/Debug/net7.0/IndexOf.AssemblyInfo.cs
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/obj/Debug/net7.0/IndexOf.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/obj/Debug/net7.0/IndexOf.dll
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/obj/Debug/net7.0/refint/IndexOf.dll
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/obj/Debug/net7.0/IndexOf.pdb
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/obj/Debug/net7.0/IndexOf.genruntimeconfig.cache
+/Users/stan/Projects/Dictionaries_CSharp/IndexOf/IndexOf/obj/Debug/net7.0/ref/IndexOf.dll
