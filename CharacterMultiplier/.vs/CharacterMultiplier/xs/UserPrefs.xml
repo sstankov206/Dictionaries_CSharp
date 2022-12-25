@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{BCED0155-919F-4F79-B958-5862457A05B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.CharacterMultiplier PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CharacterMultiplier/Program.cs">
+    <Files>
+      <File FileName="CharacterMultiplier/Program.cs" Line="65" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CharacterMultiplier" expanded="True">
+            <Node name="CharacterMultiplier" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
