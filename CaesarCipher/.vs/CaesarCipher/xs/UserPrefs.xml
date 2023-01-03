@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{319A134E-CC2F-496D-AD80-231209FE8EE6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CaesarCipher/Program.cs">
+    <Files>
+      <File FileName="CaesarCipher/Program.cs" Line="35" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CaesarCipher" expanded="True">
+            <Node name="CaesarCipher" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CaesarCipher FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
