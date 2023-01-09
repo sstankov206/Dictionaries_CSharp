@@ -1,0 +1,15 @@
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/bin/Debug/net7.0/StringExplosion
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/bin/Debug/net7.0/StringExplosion.deps.json
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/bin/Debug/net7.0/StringExplosion.runtimeconfig.json
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/bin/Debug/net7.0/StringExplosion.dll
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/bin/Debug/net7.0/StringExplosion.pdb
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/obj/Debug/net7.0/StringExplosion.csproj.AssemblyReference.cache
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/obj/Debug/net7.0/StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/obj/Debug/net7.0/StringExplosion.AssemblyInfoInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/obj/Debug/net7.0/StringExplosion.AssemblyInfo.cs
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/obj/Debug/net7.0/StringExplosion.csproj.CoreCompileInputs.cache
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/obj/Debug/net7.0/StringExplosion.dll
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/obj/Debug/net7.0/refint/StringExplosion.dll
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/obj/Debug/net7.0/StringExplosion.pdb
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/obj/Debug/net7.0/StringExplosion.genruntimeconfig.cache
+/Users/stan/Projects/Dictionaries_CSharp/StringExplosion/StringExplosion/obj/Debug/net7.0/ref/StringExplosion.dll
